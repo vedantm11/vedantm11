@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vedant Mahajan
+- 👋 Hi, I’m Vedant Mahajan,Third Year Computer Engineering Student.
 - 👀 I’m interested in Development,Machine Learning and Competitive Programming.
 - 📫 How to reach me vedantmahajan111@gmail.com.
 <!---
